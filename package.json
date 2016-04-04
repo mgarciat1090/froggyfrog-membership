@@ -1,6 +1,7 @@
 {
 
 	"name" : "froggyfrog-membership",
+	"version" : "0.0.1",
 	"author" : "Martin García",
 	"description" : "A membership system patterned after Devise",
 	"dependencies" : {
